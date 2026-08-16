@@ -53,6 +53,8 @@ The honeypot is only half the project — the value is what you do with the logs
 
 ## Getting started
 
+New to git, Markdown, TCP/networking, or the command line? Work through **[PREREQUISITES.md](PREREQUISITES.md)** first — it's a checklist covering exactly what this project assumes you already know.
+
 ### 1. Set up GitHub
 
 If you don't already have one:
